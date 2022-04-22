@@ -20,4 +20,6 @@ fwrite($handle, $contador) ;
 
 fclose($handle) ;
 // Fecha o arquivo
+
+
 ?>

@@ -10,7 +10,7 @@
 
 <body>
 
-   <form method="get" action="isset_get_arq.php" name="dados" onSubmit="return enviardados();">
+   <form method="get" action="isset_get.php" name="dados" onSubmit="return enviardados();">
 
       <table width="588" border="0" align="center">
 
